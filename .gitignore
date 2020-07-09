@@ -1,0 +1,8 @@
+# Visual Studio Code
+.vscode/
+
+# Log file of the script
+*_RestoreRecycleBin.log
+
+# CSV reports created by the script
+*.csv
